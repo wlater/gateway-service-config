@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-APIGatewayApplication<cloud-gateway-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.javainuse.APIGatewayApplication",
+            "projectName": "cloud-gateway-service",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-APIGatewayApplication<cloud-gateway-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mocks.APIGatewayApplication",
+            "projectName": "cloud-gateway-service",
+            "args": ""
+        }
+    ]
+}

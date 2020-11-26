@@ -1,0 +1,6 @@
+#server
+spring:
+    application:
+        name: gateway-service
+server:
+  port: 3032
